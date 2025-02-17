@@ -4,6 +4,10 @@
 
 Este é um projeto de uma calculadora simples desenvolvida com HTML, CSS e JavaScript. A calculadora permite realizar as quatro operações básicas: soma, subtração, multiplicação e divisão.
 
+# ATENÇÃO
+
+O projeto se trata de uma aplicação voltada a estudos básicos, por tanto, não contém recursos de responsividade.
+
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
